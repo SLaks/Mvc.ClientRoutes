@@ -1,4 +1,4 @@
-MVC.ClientRoutes
+Mvc.ClientRoutes
 ================
 
-ASP.Net Routing Framework for Javascript
+Use the ASP.Net routing system in Javascript
